@@ -1,6 +1,8 @@
 # ML-taxonomic-identity-prediction
 Homework for Machine Learning Course 2021 (MSc Bioinformatics for Computational Genomics) helded by Prof. Matteo Matteucci and Marco Cannici at Politecnico di Milano.
 
+The notebook can be viewed here [nbviewer](https://nbviewer.org/github/mariachiaragrieco/ML-taxonomic-identity-prediction/blob/main/ML_Grieco_notebook.ipynb)
+
 ## **Aim**
 The aim of this project is to investigate the use of codon usage frequencies from different organisms to identify if they can be used to **classify codon usage** in terms of 11 Kingdoms: archea, bacteria, bacteriophage, plasmid, plant, invertebrate, vertebrate, mammal, rodent, primate and virus. The anaysis is carried out using techniques for clustering, classification and regression learned during the course.
 
